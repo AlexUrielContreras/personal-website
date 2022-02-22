@@ -1,0 +1,12 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+.header-list {
+    display: flex;
+    justify-content: flex-end;
+}
+.header-list li {
+    padding-right: 25px;
+    list-style: none;
+}
